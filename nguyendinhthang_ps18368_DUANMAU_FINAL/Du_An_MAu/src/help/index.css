@@ -1,0 +1,61 @@
+.tong menu ul{
+    display: flex;
+    
+}
+a{
+  text-decoration: none;
+  color: black; 
+}
+.tong .menu ul li{
+    text-transform: uppercase;
+    margin: 10px;
+    font-size: 15px;
+    display: inline-block;
+  
+}
+.header{
+    height: 130px;
+    width: 1000px;
+  
+}
+.header img{
+width: 1500px;
+height: 100px;
+}
+h2{
+    text-transform: uppercase;
+    margin-left: 50px;
+    font-family: initial;
+}
+.t1{
+    margin-left: 50px;
+    width: 900px;
+    height: 300px;
+  
+   
+}
+.tong .t1 img{
+    width: 800px;
+    height: 400px;
+    
+}
+h4{
+    margin-left: 50px;
+    margin-top: 150px;
+}
+p{
+    margin-left: 50px;
+    margin-top: -15px;
+}
+span{
+    color: red;
+}
+.t2 ol{
+    margin-left: 25px;
+}
+.t3
+{
+    display: flex;
+    
+}
+
